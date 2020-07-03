@@ -1,0 +1,23 @@
+
+#tile0{
+  background-color: rgba(255,255,255);
+  opacity: .2;
+
+}
+
+.board{
+  max-width: 400px;
+}
+.tile{
+  height: 100px !important;
+  width: 100px !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  margin: 0px;
+  contain: content;
+}
+.img{
+  height: 400px;
+  width: 400px;
+}
+
